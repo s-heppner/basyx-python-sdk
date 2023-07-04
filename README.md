@@ -2,6 +2,8 @@
 
 (formerly known as PyI40AAS – Python Industry 4.0 Asset Administration Shell)
 
+⚠️️⚠️⚠️ **THIS IS THE VERY EXPERIMENTAL BASYX CORE INTEGRATION** ⚠️⚠️⚠️
+
 The Eclipse BaSyx Python project focuses on providing a Python implementation of the Asset Administration Shell (AAS) for Industry 4.0 Systems,
 compliant with the meta model and interface specification provided in
 [the document “Details of the Asset Administration Shell - Part 1” (V3.0RC02)](https://www.plattform-i40.de/IP/Redaktion/DE/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V3.html).
